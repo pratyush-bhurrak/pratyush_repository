@@ -1,4 +1,7 @@
 hello world!!!
 
 change 2 = fix the file!
-change 3 = fix the bug 
+change 3 = fix the bug
+
+change = made by team member from remote repository server
+change 4 = done with the git 
