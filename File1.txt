@@ -1,3 +1,4 @@
 hello world!!!
 
-change 2 = change the file!
+change 2 = fix the file!
+change 3 = fix the bug 
